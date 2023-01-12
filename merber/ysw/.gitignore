@@ -1,0 +1,7 @@
+*.csv
+*.txt
+*.log
+*.pt
+*.pyc
+.vscode
+test.py
